@@ -4,7 +4,7 @@ background-color: #ffb8db ;
 }
 
 main {
-@@ -10;7 +10,7 @@ main {
+@@ -10,7 +10,7 @@ main {
   padding: 1rem 2rem;
   box-sizing: border-box;
   margin: 1rem auto;
@@ -12,7 +12,7 @@ main {
 nav {
   color: #FFF;
   background-color: #000000;
-@@ -64;6 +64,29 @@ font-family: "Roboto Slab", serif;
+@@ -64,6 +64,29 @@ font-family: "Roboto Slab", serif;
 ul {
   list-style-type: none;
 }
