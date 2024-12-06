@@ -165,7 +165,7 @@ example-image {
 
 @media screen and (min-width: 800px) {
   body {
-    background-color: #e2ce79; /* grey */
+    background-color: #483d8b; /* grey */
   }
   nav li {
     width: 20%;
